@@ -14,7 +14,7 @@ Also, you will be introduced to the basics of AWS, including the core services a
 
 You will explore IAM, which is used for managing access to AWS resources. You'll learn how to create IAM users, groups, and roles, and how to apply permissions and security best practices to ensure proper access control.
 
-## Day 3: EC2 Instances
+## Day 3: EC2 Instances 
 
 You'll dive into EC2, which provides virtual servers in the cloud. You'll learn how to launch EC2 instances, connect to them using SSH, and understand key concepts such as instance types, security groups, and key pairs.
 
